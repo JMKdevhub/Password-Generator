@@ -24,7 +24,7 @@ A simple and responsive **Password Generator** built using **React** and **Tailw
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/JMdev23/Password-Generator
 ```
 
 Navigate to the project directory:
