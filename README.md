@@ -4,7 +4,7 @@ A simple and responsive **Password Generator** built using **React** and **Tailw
 
 ## 🚀 Live Demo
 
-[View Live Demo] (https://jmkdevhub.github.io/Password-Generator/)
+[View Live Demo](https://jmkdevhub.github.io/Password-Generator/)
 
 ## 🚀 Features
 
