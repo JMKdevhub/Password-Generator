@@ -2,6 +2,10 @@
 
 A simple and responsive **Password Generator** built using **React** and **Tailwind CSS**.
 
+## 🚀 Live Demo
+
+[View Live Demo] https://jmkdevhub.github.io/Password-Generator/
+
 ## 🚀 Features
 
 * Generate random passwords
@@ -47,7 +51,6 @@ npm run dev
 
 Open the local URL shown in the terminal.
 
-
 ## 📁 Project Structure
 
 ```text
@@ -56,7 +59,6 @@ src/
 ├── index.css
 └── main.jsx
 ```
-
 
 ## 👨‍💻 Author
 
